@@ -1,4 +1,5 @@
 - Hello, I’m Dhanashree Paste :)
+- I am data analytics enthusiast
 - I'm pursuing my post graduation in Computer applications 
 - And Working in Capgemini as Oracle DBA
 - You can reach me pastedhanashree@gmail.com
